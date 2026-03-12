@@ -41,13 +41,21 @@ a real company department structure.
 - Simulates real enterprise security enforcement
 
 ## Screenshots
-| Screenshot | Description |
-|---|---|
-| Azure Portal | VM running in cloud (East US 2) |
-| Server Manager | AD DS and DNS roles installed |
-| AD Users & Computers | IT_Department OU with users and group |
-| HelpDesk_Team Properties | All users assigned to group |
-| Group Policy Management | IT_Security_Policy linked to IT_Department |
+
+### Azure Portal — VM Running in Cloud
+![Azure Portal](azure-portal.jpeg)
+
+### Server Manager — AD DS and DNS Roles Installed
+![Server Manager](server-manager2.jpg)
+
+### HelpDesk Team — All Users Assigned to Group
+![HelpDesk Team](helpdesk-team1.jpg)
+
+### Group Policy Management — IT Security Policy Linked
+![Group Policy](group-policy1.jpg)
+
+### Password Policy — Minimum 10 Characters Enforced
+![Password Policy](password-policy1.jpg)
 
 ## Skills Demonstrated
 - Cloud VM deployment and configuration (Azure)
