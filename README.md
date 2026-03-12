@@ -64,7 +64,9 @@ a real company department structure.
 - Group Policy creation and enforcement
 - Remote server administration from macOS
 
-## Resume Bullet Point
+## How This Translates to the Real World
+
+**Resume Bullet Point:**
 "Deployed and configured a Windows Server 2025 Active Directory 
 environment in Microsoft Azure. Managed users, security groups, and 
 Organizational Units. Enforced enterprise security standards using 
